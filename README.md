@@ -5,7 +5,7 @@
 1. Clone this repository
 
 ```
-git clone https://github.com/karissademi/git-101.git
+$ git clone https://github.com/karissademi/git-101.git
 ```
 
 2. Add a .txt file in the `/users` directory. In the file, include your name, job title, most recent project, and favorite programming language
@@ -15,33 +15,33 @@ git clone https://github.com/karissademi/git-101.git
 4. Enter the directory on your computer
 
 ```
-cd git-101
+$ cd git-101
 ```
 
 5. Checkout a branch e.g. `task/your-name`
 
 ```
-git checkout -b task/karissa-demi
+$ git checkout -b task/karissa-demi
 ```
 
 6. Add the file in git
 ```
-git add karissa-demi.txt
+$ git add karissa-demi.txt
 ```
 
 7. Check the status of the working directory
 ```
-git status
+$ git status
 ```
 
 8. Create a commit message
 ```
-git commit -m "Add my file"
+$ git commit -m "Add my file"
 ```
 
 9. Create the remote branch and push your changes to the origin
 ```
-git push --set-upstream origin task/sample-user
+$ git push --set-upstream origin task/sample-user
 ```
 
 10. Open a pull request for your branch in the GitHub interface
