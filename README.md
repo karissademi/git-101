@@ -8,8 +8,9 @@
 git clone https://github.com/karissademi/git-101.git
 ```
 
-2. Add a .txt file in the `/users` directory
-3. Include your name, job title, most recent project, and favorite programming language
+2. Add a .txt file in the `/users` directory. In the file, include your name, job title, most recent project, and favorite programming language
+
+3. Name the file `your-name.txt`
 
 4. Enter the directory on your computer
 
