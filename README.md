@@ -60,6 +60,7 @@ $ git push --set-upstream origin task/sample-user
 13. Provide feedback. 
 
 14. Check your original pull request to see if you need to make a change. 
+    Even if you don't have any commits, add your favorite food to the file.
 
 15. Make the change and commit. 
 ```
