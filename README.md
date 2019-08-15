@@ -12,7 +12,7 @@ $ git clone https://github.com/karissademi/git-101.git
  - your name
  - job title
  - most recent project
- -  favorite programming language
+ - favorite animal
 
 3. Name the file `your-name.txt`
 
